@@ -9,6 +9,7 @@ numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
 pygame = "*"
+venvdotapp = "*"
 
 [dev-packages]
 
