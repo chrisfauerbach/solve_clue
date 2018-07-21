@@ -8,6 +8,7 @@ jupyter = "*"
 numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
+pygame = "*"
 
 [dev-packages]
 
